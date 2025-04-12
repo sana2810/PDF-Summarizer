@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+langchain_community
+tiktoken
+Pillow
+python-dotenv
+PyPDF2
